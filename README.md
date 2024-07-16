@@ -30,6 +30,9 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
   🎯 Specifically, I'm focusing on review analysis and personalized recommendations on E-commerce platforms.
 </p>
 
+<h2>🚀 Future Work</h2>
+<p>Working to become a Machine Learning Engineer, AI Engineer and Research Scientist</p>
+
 <!--
 **m0onsoo/m0onsoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
