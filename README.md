@@ -26,7 +26,8 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 <h2>💡 Recent Interests</h2>
 <p>
   📖 Natural Language Processing </br>
-  🎯 Recommendation system
+  🛒 Recommendation system </br>
+  🎯 Specifically, I'm focusing on review analysis and personalized recommendations on E-commerce platforms.
 </p>
 
 <!--
