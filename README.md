@@ -15,11 +15,13 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
   <img alt="Python" src="https://img.shields.io/badge/-Python-%233776AB?style=flat-square&logo=python&logoColor=white" />
   <img alt="PyTorch" src="https://img.shields.io/badge/-PyTorch-%23EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
   <img alt="FastAPI" src="https://img.shields.io/badge/-FastAPI-%23009688?style=flat-square&logo=fastapi&logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="Tableau" src="https://img.shields.io/badge/-Tableau-%23E97627?style=flat-square&logo=tableau&logoColor=white" />
+  <img alt="AWS" src="https://img.shields.io/badge/-AWS-%23232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-%234169E1?style=flat-square&logo=postgresql&logoColor=white" />
   <img alt="R" src="https://img.shields.io/badge/-R-%23276DC3?style=flat-square&logo=R&logoColor=white" />
-  <img alt="Git" src="https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="AWS" src="https://img.shields.io/badge/-AWS-%23232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" />
 </p>
+
 <hr>
 
 
