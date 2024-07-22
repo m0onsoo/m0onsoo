@@ -22,7 +22,7 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
   <img alt="R" src="https://img.shields.io/badge/-R-%23276DC3?style=flat-square&logo=R&logoColor=white" />
 </p>
 
-<hr>
+
 
 
 <h2>💡 Recent Interests</h2>
