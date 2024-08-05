@@ -49,7 +49,7 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 <h3> What I can contribute </h3>
 
 + Automated data collection such as web crawling
-+ Model design and training w/ strong background ML/DL knowledges
++ Model design, debugging and training w/ strong background ML/DL knowledges
 + Model serving and monitoring w/ backend development experience
 + Creative Energy
 
