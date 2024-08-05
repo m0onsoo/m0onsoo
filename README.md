@@ -43,13 +43,13 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 + Distributed Processing of Big Data
 + Model Serving to real-time servers
 + Recent Recommender models
-+ LLMs
++ Application of LLMs
 
 <h3> What I can contribute </h3>
 
-+ Automated data collection
-+ Model design and training
-+ Model serving and monitoring
++ Automated data collection such as web crawling
++ Model design and training w/ strong background knowledges
++ Model serving and monitoring w/ backend development experience
 + Creative Energy
 
 <h3> Fianl Goals </h3>
