@@ -21,6 +21,7 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
   <img alt="PyTorch" src="https://img.shields.io/badge/-PyTorch-%23EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
   <img alt="FastAPI" src="https://img.shields.io/badge/-FastAPI-%23009688?style=flat-square&logo=fastapi&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="PyPI" src="https://img.shields.io/badge/-PyPI-%233775A9?style=flat-square&logo=PyPI&logoColor=white" />
   <img alt="Tableau" src="https://img.shields.io/badge/-Tableau-%23E97627?style=flat-square&logo=tableau&logoColor=white" />
   <img alt="AWS" src="https://img.shields.io/badge/-AWS-%23232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-%234169E1?style=flat-square&logo=postgresql&logoColor=white" />
@@ -51,6 +52,7 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 + Automated data collection such as web crawling
 + Model design, debugging and training w/ strong background ML/DL knowledges
 + Model serving and monitoring w/ backend development experience
++ Python packaging and deployment on PyPI
 + Creative Energy
 
 <h3> Fianl Goals </h3>
