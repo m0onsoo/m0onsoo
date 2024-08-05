@@ -6,7 +6,8 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 <p>
 🎓 I'm studying a <b>Data Science</b> and <b>AI</b> from <b>Korea</b> 🇰🇷 </br> 
 🔥 High enthusiasm and adaptability to new technologies. Pursuing the infinite possibilities of Python </br>
-🎧 I like pop, rap music and movies. Do you believe in the possibility of AI creating the culture?
+🎧 I like pop, rap music and movies. </br></br>
+🦾 Do you believe in the possibility of AI creating the next generation culture?
 
 <!-- 🎧 I like classical, pop, rap music and movies </br>
 🤩 Intereseted in the changes by AI developments such as LLMs in the development of culture, so much Fun! </br>
@@ -41,14 +42,14 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 <h3> What I want to learn more </h3>
 
 + Distributed Processing of Big Data
-+ Model Serving to real-time servers
++ Building a model serving and CI/CD pipeline
 + Recent Recommender models
 + Application of LLMs
 
 <h3> What I can contribute </h3>
 
 + Automated data collection such as web crawling
-+ Model design and training w/ strong background knowledges
++ Model design and training w/ strong background ML/DL knowledges
 + Model serving and monitoring w/ backend development experience
 + Creative Energy
 
