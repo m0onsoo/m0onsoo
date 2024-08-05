@@ -45,6 +45,13 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 + Recent Recommender models
 + LLMs
 
+<h3> What I can contribute </h3>
+
++ Automated data collection
++ Model design and training
++ Model serving and monitoring
++ Creative Energy
+
 <h3> Fianl Goals </h3>
 
 + Machine Learning Engineer
