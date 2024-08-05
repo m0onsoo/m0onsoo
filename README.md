@@ -40,7 +40,7 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 <h2>🚀 Visions</h2>
 <h3> What I want to learn more </h3>
 
-+ Big Data Processing
++ Distributed Processing of Big Data
 + Model Serving to real-time servers
 + Recent Recommender models
 + LLMs
