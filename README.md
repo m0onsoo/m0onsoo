@@ -1,13 +1,17 @@
-<h1 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/moonsoo-park/" target="_blank">Moonsoo Park</a> <img
+<h1 align="left"><a href="https://www.linkedin.com/in/moonsoo-park/" target="_blank">Moonsoo Park</a> <img
 src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1>
-<br />
+<!-- <br /> -->
 
-<p>Welcome to my page!! </br> 
+<!--  <h2>👤 Welcome!! </h2> -->
+<p>
 🎓 I'm studying a <b>Data Science</b> and <b>AI</b> from <b>Korea</b> 🇰🇷 </br> 
 🔥 High enthusiasm and adaptability to new technologies. Pursuing the infinite possibilities of Python </br>
-🎧 I like classical, pop, and rap music!
-</p>
-<hr>
+🎧 I like pop, rap music and movies. Do you believe in the possibility of AI creating the culture?
+
+<!-- 🎧 I like classical, pop, rap music and movies </br>
+🤩 Intereseted in the changes by AI developments such as LLMs in the development of culture, so much Fun! </br>
+</p> -->
+<!-- <hr> -->
 
 
 <h2>⚙️ Skills</h2>
@@ -25,15 +29,38 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 
 
 
-<h2>💡 Recent Interests</h2>
+<h2>💡 Interests</h2>
 <p>
-  📖 Natural Language Processing </br>
-  🛒 Recommendation system </br>
-  🎯 Specifically, I'm focusing on review analysis and personalized recommendations on E-commerce platforms.
+  📖 NLP & Recommender system </br>
+  🎯 Specifically, Review Analysis & Personalized Recommendations on e-commerce platforms. </br>
+  🔎 I would like to deeply analyze the ranking system and recommendation results of e-commerce. </br>
+  📊 Based on recent <a href="https://github.com/SJU-Capstone-DS-DayOne/Model" target="_blank">project</a>, I'm conducting a research on a Keyphrase Extraction & GCN based Recommeder model.
 </p>
 
-<h2>🚀 Future Work</h2>
-<p>Working to become a Machine Learning Engineer, AI Engineer and Research Scientist</p>
+<h2>🚀 Visions</h2>
+<h3> What I want to learn more </h3>
+
++ Big Data Processing
++ Model Serving to real-time servers
++ Recent Recommender models
++ LLMs
+
+<h3> Fianl Goals </h3>
+
++ Machine Learning Engineer
++ AI Engineer
++ Research Scientis
++ Big Data Analyst
+
+<h2>📌 Experiences </h2>
+
+|Period|Category|Details|Notes|
+|------|---|---|---|
+|Dec 2019|Award|The 6th SW Coding Contest, **4th place**, Sejong University||
+|Fall 2022|Award|Academic Excellence Scholarship||
+|Fall 2023|Award|Global Excellence Scholarship||
+|Nov 2023|Award|Supply Chain&Maritime Logistics Award, CJ Logistics America, **2nd place**||
+|Fall 2023|Award|Creative Design Competition(Capstone Design), **1st Place**|[Repo](https://github.com/SJU-Capstone-DS-DayOne/Model)|
 
 <!--
 **m0onsoo/m0onsoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
