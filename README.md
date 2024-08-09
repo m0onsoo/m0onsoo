@@ -66,11 +66,11 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 
 |Period|Category|Details|Notes|
 |------|---|---|---|
-|Dec 2019|Award|The 6th SW Coding Contest, **4th place**, Sejong University||
-|Fall 2022|Award|Academic Excellence Scholarship||
-|Fall 2023|Award|Global Excellence Scholarship||
-|Nov 2023|Award|Supply Chain&Maritime Logistics Award, CJ Logistics America, **2nd place**||
 |Fall 2023|Award|Creative Design Competition(Capstone Design), **1st Place**|[Repo](https://github.com/SJU-Capstone-DS-DayOne/Model)|
+|Nov 2023|Award|Supply Chain&Maritime Logistics Award, CJ Logistics America, **2nd place**||
+|Fall 2023|Award|Global Excellence Scholarship||
+|Fall 2022|Award|Academic Excellence Scholarship||
+|Dec 2019|Award|The 6th SW Coding Contest, **4th place**, Sejong University||
 
 <!--
 **m0onsoo/m0onsoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
