@@ -43,7 +43,7 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 <h3> What I want to learn more </h3>
 
 + Distributed Processing of Big Data
-+ Building a model serving and CI/CD pipeline
++ Building a professional model deployment and CI/CD pipeline
 + Recent Recommender models
 + Application of LLMs
 
@@ -67,6 +67,7 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 |Period|Category|Details|Notes|
 |------|---|---|---|
 |Fall 2023|Award|Creative Design Competition(Capstone Design), **1st Place**|[Repo](https://github.com/SJU-Capstone-DS-DayOne/Model)|
+|Mar 2023 ~|Member|Undergraduate Research Assistant at FNAI Lab|[Link](https://sites.google.com/view/fnailab)|
 |Nov 2023|Award|Supply Chain&Maritime Logistics Award, CJ Logistics America, **2nd place**||
 |Fall 2023|Award|Global Excellence Scholarship||
 |Fall 2022|Award|Academic Excellence Scholarship||
