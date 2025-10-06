@@ -4,7 +4,7 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 
 <!--  <h2>👤 Welcome!! </h2> -->
 <p>
-🎓 I'm studying a <b>Data Science</b> and <b>AI</b> from <b>Korea</b> 🇰🇷 </br> 
+🎓 I'm studying a <b>Computer Science</b> and <b>AI</b> in <b>USC</b> </br> 
 🔥 High enthusiasm and adaptability to new technologies. Pursuing the infinite possibilities of Python </br>
 🎧 I like pop, rap music and movies. </br></br>
 🦾 Do you believe in the possibility of AI creating the next generation culture?
@@ -66,7 +66,7 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 
 |Period|Category|Details|Notes|
 |------|---|---|---|
-|Apr 2025 ~ Jul 2025|Intern|Research Developer at Lemong|[Link](https://lemong.ai/)|
+|Apr 2025 ~ Jul 2025|Intern|Research Engineer Intern at Lemong|[Link](https://lemong.ai/)|
 |Mar 2023 ~ Jul 2025|Member|Undergraduate Research Assistant at FNAI Lab|[Link](https://sites.google.com/view/fnailab)|
 |Fall 2023|Award|Creative Design Competition(Capstone Design), **1st Place**|[Repo](https://github.com/SJU-Capstone-DS-DayOne/Model)|
 |Nov 2023|Award|Supply Chain&Maritime Logistics Award, CJ Logistics America, **2nd place**||
